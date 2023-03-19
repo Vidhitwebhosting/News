@@ -1,0 +1,13 @@
+body{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+span{
+    padding: 5px;
+    border: 1px inset black;
+}
+li{
+    padding-top: 15px;
+}
+footer{
+    background: bisque;
+}
